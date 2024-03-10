@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#5BB8FF</color>
+    <color name="colorPrimaryDark">#5BB8FF</color>
+    <color name="colorAccent">#5BB8FF</color>
+    <color name="textColor9">#999999</color>
+    <color name="textColor3">#333333</color>
+    <color name="lineColorOne">#DDDDDD</color>
+    <!--通用灰白背景色-->
+    <color name="bgColorGray">#F3F3F3</color>
+    <color name="textColorRedThree">#EE7977</color>
+    <color name="divictorLineColor">#e5e5e5</color>
+    <color name="colorBlue5FF">#E7F5FF</color>
+    <color name="textColorUnchecked">#333333</color>
+    <color name="translucentColor">#60000000</color>
 </resources>

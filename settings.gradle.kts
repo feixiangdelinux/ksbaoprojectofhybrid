@@ -16,8 +16,13 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
+        maven { url = uri("https://maven.aliyun.com/repository/releases") }
+        maven { url = uri("https://jitpack.io") }
     }
 }
 
 rootProject.name = "ksbaoprojectofhybrid"
 include(":app")
+include(":library")
+include(":Aliyunplayerlibrary")

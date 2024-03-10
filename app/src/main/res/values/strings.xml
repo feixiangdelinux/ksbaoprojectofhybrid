@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">ksbaoprojectofhybrid</string>
+    <string name="dialog_agreement_btn_one">同意</string>
+    <string name="dialog_agreement_btn_two">不同意并退出APP</string>
+    <string name="title_left">返回</string>
+    <string name="video_play_download_hint">系统检测当前处于移动网络环境,是否继续下载</string>
+    <string name="alivc_dialog_continue">继续</string>
+    <string name="alivc_dialog_cancle">&#160;取消&#160;</string>
+    <string name="video_play_download_delete">确认删除所选视频</string>
+    <string name="alivc_dialog_sure">确定</string>
+    <string name="video_play_download_success">缓存任务添加成功\n您可在班次有效期内查看缓存视频</string>
+    <string name="video_play_download_fail">手机储存空间不足</string>
+    <string name="video_management_hint">没有找到您缓存的视频哦</string>
+    <string name="video_management_storage_one">手机存储:已用</string>
+    <string name="intent_tag_tag">tag</string>
+    <string name="intent_tag_data">data</string>
+    <string name="video_management_tag_already">已缓存</string>
+    <string name="video_management_tag_process">正在缓存</string>
+    <string name="video_management_tag_task">缓存任务</string>
+    <string name="video_management_expire">您的班次已过期,暂时不能在观看该缓存视频,请重新购买后在使用</string>
+    <string name="video_info_list_all">全选</string>
+    <string name="video_info_list_delete">删除</string>
+    <string name="video_info_list_cancel_all">取消全选</string>
+    <string name="video_info_list_all_suspend">全部暂停</string>
+    <string name="video_info_list_all_start">全部开始</string>
+    <string name="video_info_list_edit">&#160;编辑&#160;</string>
+    <string name="layout_base_loading">加载中</string>
+    <string name="base_dl_msg">网络好像不太给力啊~~~</string>
+    <string name="base_btn_pos">重新刷新</string>
+    <string name="video_management_title">视频管理</string>
+    <string name="network_error_btn_video">    观看缓存视频    </string>
+    <string name="init_all_message">全部聊天记录0</string>
+    <string name="init_teacher_message">只看老师0</string>
 </resources>
